@@ -1,0 +1,66 @@
+.form-control {
+  width: 300px;
+  padding: 12px 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  outline: none;
+}
+
+.submit-btn {
+  background-color: #58D68D;
+  color: white;
+  padding: 14px 20px;
+  margin-left: 5px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  outline: none;
+}
+
+.temperature {
+  font-size: 90px;
+}
+
+.city {
+  margin-bottom: 60px;
+  font-size: 30px;
+}
+
+.humidity {
+  font-size: 30px;
+}
+
+.pressure {
+  font-size: 30px;
+}
+
+.error-msg {
+  font-size: 12px;
+  color: red;
+}
+
+.wi-size-5x {
+  font-size: 12em !important;
+}
+.weather-div {
+  width: 400px;
+  margin: auto;
+  text-align: center;
+
+}
+.day {
+  background-color: #F4D03F;
+}
+.night {
+  background-color: #21618C;
+}
+
+.line {
+  width: 70%;
+  height: 2px;
+  background: #000000;
+  text-align: center;
+  margin: auto;
+  margin-top: 30px;
+}
